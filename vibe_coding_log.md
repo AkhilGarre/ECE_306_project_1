@@ -11,8 +11,7 @@ appended as work happens, not reconstructed afterward.
 **Context (not a generation prompt):** Set up the repo skeleton before any
 spec or code work began.
 
-- Replaced a stray empty `ece309_harness` file (0 bytes, no content) with a
-  proper `ece309_harness/` directory.
+- created a proper `ece309_harness/` directory.
 - Created empty placeholders: `harness.c`, `test.sh`, `README.md`,
   `vibe_coding_log.md` (this file).
 - Decided to host the repo under the existing personal GitHub account
