@@ -1,0 +1,15 @@
+# compiled binaries produced by test.sh / manual builds
+harness
+harness_plain
+harness_asan
+*.o
+*.out
+
+# test.sh scratch logs (it cleans these up, but just in case)
+build.log
+vg.log
+asan.log
+asan_build.log
+
+# submission archive (generated, not tracked)
+github.zip
